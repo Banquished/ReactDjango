@@ -20,3 +20,8 @@ First, make sure you're standing in the `REACTDJANGO` root folder, then run the 
 
 `env/Scripts/activate.ps1`
 
+Deployment Setup
+================
+Deployment is done via [Choreo](https://choreo.dev) and it requires that the repository has the following files:
+1. endpoints.yaml
+2. Procfile
